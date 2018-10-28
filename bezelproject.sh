@@ -131,7 +131,7 @@ function download_bezel() {
                     cd "/home/pi/RetroPie/retropiemenu"
                 fi
                 mv "bezelproject.sh" "bezelproject.sh.bkp"
-                wget "https://raw.githubusercontent.com/thebezelproject/BezelProject/master/bezelproject.sh"
+                wget "https://raw.githubusercontent.com/CharlesWB/BezelProject/master/bezelproject.sh"
                 chmod 777 "bezelproject.sh"
                 exit
                 ;;
