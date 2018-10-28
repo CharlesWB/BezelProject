@@ -3,7 +3,7 @@
 -------
 OVERVIEW
 
-A customized version of tThe Bezel Project Bezel Utility menu for the way I've setup RetroPie.
+A customized version of the Bezel Project Bezel Utility menu for the way I've setup RetroPie.
 
 This utility will provide a downloader for Retroarach system bezel packs to be used for various systems within RetroPie.
 
