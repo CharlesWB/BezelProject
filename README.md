@@ -1,9 +1,9 @@
-# bezelproject
+# bezelproject (customized)
 
 -------
 OVERVIEW
 
-The Bezel Project Bezel Utility menu.
+A customized version of tThe Bezel Project Bezel Utility menu for the way I've setup RetroPie.
 
 This utility will provide a downloader for Retroarach system bezel packs to be used for various systems within RetroPie.
 
@@ -23,9 +23,9 @@ Exit out of Emulation Station by pressing F4 (or remote into the Pi using someth
 
 Type the following commands:
 
-***cd /home/pi/RetroPie/retropiemenu/*** 
+***cd /home/pi/RetroPie/retropiemenu/***
 
-***wget https://raw.githubusercontent.com/thebezelproject/BezelProject/master/bezelproject.sh***
+***wget https://raw.githubusercontent.com/CharlesWB/BezelProject/master/bezelproject.sh***
 
 ***chmod +x "bezelproject.sh"***
 
